@@ -1,0 +1,4 @@
+interface:
+  display_name: 音视频转写与校对
+  short_description: 复用授权转写结果，保留逐句原稿、发言人和时间戳，并分开记录校对与总结
+  default_prompt: 请用 $audio-video-transcription-skill 处理我提供的材料，并按本次要求交付。
